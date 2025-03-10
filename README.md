@@ -4,6 +4,7 @@ I mostly store all of my projects under Gitlab. Feel free to check them out here
 
 - 🔭 I’m currently working on:
     - Building my life back after a huge period of depression. (Don't worry, I'm getting better & probably stroger than before LOL)
+    - Just recently, I started learning Linux Ricing using Arch Linux & Hyprland. I'll be sure to share my own personal & minimalistic rice.
     - Personal portfolio website (under development)
     - Personal web based ecosystem (under development)
 
