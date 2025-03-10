@@ -1,16 +1,25 @@
-## Hi there 👋
+# Nadzmi Idzham
 
-<!--
-**nadzmiidzham/nadzmiidzham** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I mostly store all of my projects under Gitlab. Feel free to check them out here: https://gitlab.com/nadzmiidzham.
 
-Here are some ideas to get you started:
+- 🔭 I’m currently working on:
+    - Building my life back after a huge period of depression. (Don't worry, I'm getting better & probably stroger than before LOL)
+    - Personal portfolio website (under development)
+    - Personal web based ecosystem (under development)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 🌱 I’m currently learning:
+    - Kubernetes with ArgoCD
+    - How microservices works
+    - Game Dev (only when I have time)
+
+- 📫 How to reach me:
+    - nadzmiidzham@gmail.com
+    - +60 111-10849181
+    - Gitlab: https://gitlab.com/nadzmiidzham
+
+- 👯 I’m looking to collaborate on:
+    - nothing much at the moment but maybe in the future I would like to learn more about Game Dev by collaborating with someone to build a small game that I can be proud of.
+
+- 🤔 I’m looking for help with:
+    - I may need someone to chat from time to time (not necessarily about tech but can be life in general) to help with my mental health recovery. Nothing specific set in stone, I'm weird fellow just like most people I see in the internet LOL.
+
