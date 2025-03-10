@@ -19,6 +19,7 @@ I mostly store all of my projects under Gitlab. Feel free to check them out here
 
 - 👯 I’m looking to collaborate on:
     - nothing much at the moment but maybe in the future I would like to learn more about Game Dev by collaborating with someone to build a small game that I can be proud of.
+    - Also, I have so many repos here that is basically a project I started on my own time but had never completed them. Nowadays, I realized its on me to push my project to the finishing line first without worrying too much on a specific problem solving such as optimisation or good practices.
 
 - 🤔 I’m looking for help with:
     - I may need someone to chat from time to time (not necessarily about tech but can be life in general) to help with my mental health recovery. Nothing specific set in stone, I'm weird fellow just like most people I see in the internet LOL.
