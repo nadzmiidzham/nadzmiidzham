@@ -9,7 +9,8 @@ I mostly store all of my projects under Gitlab. Feel free to check them out here
 ## 🌱 I’m currently learning
 
 - Kubernetes with ArgoCD
-- How microservices works
+- Deep dive into microservices using NestJs
+- Deep dive into NuxtJs as my go to frontend framework
 - Game Dev (only when I have time)
 
 ## 📫 How to reach me
